@@ -3,6 +3,7 @@
 An open-source, privacy-first anonymous messaging web app where users can get to know what others think about them by receiving anonymous messages from others — built with Node.js, Express, MongoDB, Redis, BullMQ, Server-Sent Events (SSE), React.js, HTML, CSS, JavaScript.
 
 ## 💻 Demo
+
 <img src="./Readme Media/Anonymous Messaging Web App Demo.gif" alt="Demo GIF" width="300" height="660">
 
 ## 🌐 Live Demo
@@ -27,6 +28,7 @@ An open-source, privacy-first anonymous messaging web app where users can get to
 - 📊 **Message Queue System** — BullMQ + Redis handles background jobs like real-time notifications of newly received messages.
 - ⏯️ **Pause and Resume Link** - Pause link to stop getting messages and resume it to resume getting messages anytime with just one click.
 - 🗑️ **Delete Account** - Delete account when required with just a click.
+
 ---
 
 ## 📦 Installation
@@ -72,17 +74,21 @@ An open-source, privacy-first anonymous messaging web app where users can get to
 ## 🧪 Running the Application Locally
 
 1. **Start the backend server:**
+
    ```bash
    cd backend
    npm start
    ```
+
    The backend will run on `http://localhost:5000`.
 
 2. **Start the frontend application:**
+
    ```bash
    cd ../frontend
    npm run dev
    ```
+
    The frontend will run on `http://localhost:5173`.
 
 3. **Access the application:**
