@@ -3,7 +3,7 @@
 An open-source, privacy-first anonymous messaging web app where users can get to know what others think about them by receiving anonymous messages from others — built with Node.js, Express, MongoDB, Redis, BullMQ, Server-Sent Events (SSE), React.js, HTML, CSS, JavaScript.
 
 ## 💻 Demo
-<img src="./Readme Media/demo.gif" alt="Demo GIF" width="300" height="660">
+<img src="./Readme Media/Anonymous Messaging Web App Demo.gif" alt="Demo GIF" width="300" height="660">
 
 ## 🌐 Live Demo
 
