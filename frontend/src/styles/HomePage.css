@@ -1,0 +1,56 @@
+.homePageContainer {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.homePageCard {
+  margin: 1rem;
+  border: 2px solid gray;
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+
+.shareBox {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(194, 190, 190, 0.659);
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.shareBox a {
+  margin: 0.5rem;
+}
+
+.copyLinkDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  border-radius: 1rem;
+  margin: 1rem;
+  background-color: rgba(194, 190, 190, 0.401);
+}
+
+#copyHelpText {
+  font-size: 1.1rem;
+}
+
+#copy {
+  margin-top: -1.5rem;
+  color: gray;
+  caret-color: transparent;
+  background: none;
+}
+
+#copyBtn {
+  font-size: 1rem;
+  font-weight: normal;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  padding: 0.2rem 0.8rem;
+  background-color: black;
+}

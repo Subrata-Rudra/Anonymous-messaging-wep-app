@@ -1,0 +1,41 @@
+.footer {
+  width: 100vw;
+  background-color: #0c7dc3;
+  color: #fff;
+  padding: 0.5rem 0;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.footer p a {
+  color: white;
+  font-weight: bold;
+}
+
+.footer ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.1rem;
+  border-radius: 0.5rem;
+}
+
+.footer ul li {
+  list-style: none;
+  font-size: 1rem;
+}
+
+.footer ul li a {
+  margin: 0 1rem;
+  color: white;
+  font-weight: bold;
+}
+
+.footer ul li a:hover {
+  color: white;
+}

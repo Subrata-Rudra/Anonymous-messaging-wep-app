@@ -1,0 +1,14 @@
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height: 100%;
+}
+
+.LandingPage {
+  display: flex;
+  flex-direction: column;
+  min-height: 85vh;
+  width: 100vw;
+  background-color:rgb(204, 239, 212);
+}

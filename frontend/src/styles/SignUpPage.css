@@ -1,0 +1,63 @@
+.container {
+  padding: 1rem;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#mainHeading {
+  font-family: cursive;
+}
+
+.formcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+#signupPageBackButtonDiv {
+  position: absolute;
+  top: -8rem;
+  left: -2rem;
+}
+
+button {
+  outline: none;
+  margin-top: 4rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: 1rem 3.5rem;
+  background-color: rgb(5, 171, 133);
+  border-radius: 2rem;
+  color: white;
+}
+
+p {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+input {
+  outline: none;
+  border: none;
+  border-radius: 1.8rem;
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: rgba(12, 213, 166, 0.896);
+  text-align: center;
+}
+
+#submitBtn {
+  margin-bottom: 4rem;
+}
+
+#backBtn {
+  background: none;
+  border: none;
+}
