@@ -11,6 +11,13 @@ An open-source, privacy-first anonymous messaging web app where users can get to
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Redis (for using message queue in BullMq for Server-Sent-Events)
+- **Deployment:** Vercel (Frontend), Render (Backend), Render (Redis), MongoDB Cloud (MongoDB)
+
 ## ✨ Features
 
 - ✅ **Anonymous Messaging** — Anyone can send a message anonymously without logging in.
