@@ -46,6 +46,7 @@
   border-radius: 10px;
   resize: vertical;
   background: #fff;
+  color: black;
   transition: border-color 0.2s ease-in-out;
 }
 
